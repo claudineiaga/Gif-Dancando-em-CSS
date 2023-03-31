@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(12, 12, 12);
+    overflow: hidden;
+}
+p {
+    font-size: 13px;
+    line-height: 10px;
+    background: url(https://i.gifer.com/hdt.gif)no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: 900;
+    margin: 0;
+
+}
+
